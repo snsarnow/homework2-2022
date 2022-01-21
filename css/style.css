@@ -1,4 +1,4 @@
-body {
+body{
     font-family: Verdana, "Times New Roman";
     background-color: #000000;
     color: #FFFFFF;
@@ -51,8 +51,8 @@ div{
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom-width: 3px;
-    border-left-width: 10px;
+    border-bottom: solid 3px;
+    border-left: solid 10px;
 
 }
 
@@ -60,16 +60,16 @@ div{
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-bottom-width: 3px;
-    border-right-width: 10px;
+    border-bottom: solid 3px;
+    border-right: solid 10px;
 }
 
 .yellow{
     background-color: #ffff00;
     text-align: right;
     margin-left: 50px;
-    border-bottom-width: 3px;
-    border-left-width: 10px;
+    border-bottom: solid 3px;
+    border-left: solid 10px;
     color: #000000;
     
 }
@@ -82,8 +82,8 @@ div{
     background: #00EB00;
     text-align: left;
     margin-right: 50px;
-    border-right-width: 10px;
-    border-bottom-width: 3px;
+    border-right: solid 10px;
+    border-bottom: solid 3px;
 
 }
 
@@ -99,7 +99,7 @@ footer{
     
 }
 
-.footer p{
+footer p{
     font-size: 20px;
     text-align: center;
     padding-top: 10px;
@@ -107,3 +107,4 @@ footer{
     padding-bottom: 10px;
 
 }
+
